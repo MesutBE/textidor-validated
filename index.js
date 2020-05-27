@@ -42,4 +42,3 @@ app.listen(config.PORT, () => {
     `listening at http://localhost:${config.PORT} (${config.MODE} mode)`
   );
 });
-
